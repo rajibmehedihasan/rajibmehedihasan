@@ -6,7 +6,7 @@ I'm **Mehedi Hasan**, a Full-Stack Developer and cool frontend crafter with over
 - 🌱 I’m currently learning advanced **GraphQL** techniques and exploring **real-time data streaming** with **Kafka**.
 - 👯 I’m looking to collaborate on **open-source React/Vue projects** and **full-stack solutions**.
 - 💬 Ask me about **frontend development, design systems**, and **dynamic API integrations**.
-- ⚡ Fun fact: I don’t have a CSE degree, but with over 6 years of hands-on experience, I’ve built dynamic and visually engaging interfaces, all driven by my passion for coding and design. Guided by my motto, _"Continuous Learning, Continuous Improvement,"_!
+- ⚡ Fun fact: I don’t have a CSE degree, but with over 6 years of hands-on experience, I’ve built dynamic and visually engaging interfaces, all driven by my passion for coding and design. Guided by my motto, _"Continuous Learning, Continuous Improvement"_.
 
 ---
 
