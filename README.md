@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Mehedi Hasan**, a Full-Stack Developer and cool frontend crafter with over 6 years of experience building scalable, robust solutions. My focus areas include Node.js, Express, PostgreSQL, GraphQL, and visually engaging front-end development using React and Vue.
+I'm **Mehedi Hasan**, a Full-Stack Developer and cool frontend crafter with over 6 years of experience in building scalable, robust solutions. My focus areas include Node.js, Express, PostgreSQL, and GraphQL, along with visually engaging frontend development using React and Vue.
 
 - 🔭 I’m currently working at **Brain Station 23** as a Software Engineer, building dynamic APIs and reusable components.
 - 🌱 I’m currently learning advanced **GraphQL** techniques and exploring **real-time data streaming** with **Kafka**.
@@ -18,6 +18,9 @@ I'm **Mehedi Hasan**, a Full-Stack Developer and cool frontend crafter with over
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -31,6 +34,7 @@ I'm **Mehedi Hasan**, a Full-Stack Developer and cool frontend crafter with over
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
